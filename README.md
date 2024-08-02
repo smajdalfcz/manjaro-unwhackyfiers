@@ -1,4 +1,4 @@
-# manjaro-unwuckyfiers
+# manjaro-unwhackyfiers
 
 Q: A thing doesn't work.\
 A: A thing works out of the box.\
